@@ -6,6 +6,9 @@
     <project_license>LGPL-2.0+</project_license>
     <name>QXmlEdit</name>
     <summary>XML editor</summary>
+    <developer id="org.qxmledit">
+        <name>QXmlEdit Developers</name>
+    </developer>
     <description>
         <p>
             QXmlEdit is an XML editor with some facilities to explore and process big files.
